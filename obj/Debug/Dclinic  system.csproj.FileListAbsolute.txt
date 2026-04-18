@@ -1,0 +1,20 @@
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\bin\Debug\Program.cs
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\bin\Debug\Dclinic  system.exe.config
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\bin\Debug\Dclinic  system.exe
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\bin\Debug\Dclinic  system.pdb
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic  system.csproj.AssemblyReference.cache
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.AdminLogin.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Appointment.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.DashBoard.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Doctors.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Login.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Patient.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.prescription.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Splash.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Properties.Resources.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.Treatment.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic__system.User.resources
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic  system.csproj.GenerateResource.cache
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic  system.csproj.CoreCompileInputs.cache
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic  system.exe
+C:\Users\Ana Marie Caong\Downloads\dental-clinic-system-c--master\obj\Debug\Dclinic  system.pdb
